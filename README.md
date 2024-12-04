@@ -8,7 +8,7 @@ We identified and analyzed key characteristics of AI-enabled medical devices app
 
 ## Repository contents
 The notebooks `plots.ipynb` and `tables.ipynb` contain the code to generate all plots and tables reported in the paper.
-Te dataset will be released after approval.
+The dataset will be released after approval.
 
 [//]: # (`dataset_fda_devices.xlsx` is the cleaned dataset used for all the analysis.)
 
