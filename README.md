@@ -15,7 +15,7 @@ The dataset will be released after approval.
 
 
 ## Citation
-Please cite the following paper if you use this repository and data.
+Please cite the following paper if you use this repository or data.
 
 Windecker D, Baj G, Shiri I, Mohammadi Kazaj P, Kaesmacher J, Gräni C, Siontis GC. Generalizability of AI-Enabled Medical Devices Approved for Clinical Use. 2024 In submission.
 
