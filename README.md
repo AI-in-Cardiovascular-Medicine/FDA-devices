@@ -7,7 +7,7 @@ The notebooks `plots.ipynb` and `tables.ipynb` contain the code to generate all 
 
 
 ## Citation
-Please cite the following paper if you use this repository.
+Please cite the following paper if you use this repository and data.
 
 Windecker D, Baj G, Shiri I, Mohammadi Kazaj P, Kaesmacher J, Gräni C, Siontis GC. Generalizability of AI-Enabled Medical Devices Approved for Clinical Use. 2024 In submission.
 
