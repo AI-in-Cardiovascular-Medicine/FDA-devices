@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import matplotlib.pyplot as plt
 import plotly.graph_objects as go
@@ -92,6 +93,6 @@ class SankeyPlot(object):
         fig.update_layout(font_size=16, width=1000, height=600, title=title)
 
         if save_path:
-            fig.write_image(save_path, scale=3)
+            fig.write_image(save_path, scale=3, format=os.path.splitext(save_path)[1].replace(".", ""))
 
         return fig
