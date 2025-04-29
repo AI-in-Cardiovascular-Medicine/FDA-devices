@@ -34,6 +34,8 @@ Windecker D, Baj G, Shiri I, Mohammadi Kazaj P, Kaesmacher J, Gräni C, Siontis 
 }
 ```
 ```
-Windecker, Daniel, Giovanni Baj, Isaac Shiri, Pooya Mohammadi Kazaj, Johannes Kaesmacher, Christoph Gräni, and George C. M. Siontis. 2025. “Generalizability of FDA-Approved AI-Enabled Medical Devices for Clinical Use.” JAMA Network Open 8 (4): e258052. https://doi.org/10.1001/jamanetworkopen.2025.8052.
+Windecker, Daniel, Giovanni Baj, Isaac Shiri, Pooya Mohammadi Kazaj, Johannes Kaesmacher, Christoph Gräni, and George C. M. Siontis. 2025.
+“Generalizability of FDA-Approved AI-Enabled Medical Devices for Clinical Use.”
+JAMA Network Open 8 (4): e258052. https://doi.org/10.1001/jamanetworkopen.2025.8052.
 ```
 
