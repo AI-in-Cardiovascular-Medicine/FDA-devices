@@ -20,12 +20,18 @@ Please cite the following paper if you use this repository or data.
 Windecker D, Baj G, Shiri I, Mohammadi Kazaj P, Kaesmacher J, Gräni C, Siontis GC. Generalizability of AI-Enabled Medical Devices Approved for Clinical Use. 2024 In submission.
 
 ```
-@article{Windecker2024,
-  author = {Daniel Windecker and Giovanni Baj and Isaac Shiri and Pooya Mohammadi Kazaj and Johannes Kaesmacher and Christoph Gräni and George C. M. Siontis},
-  title = {Generalizability of AI-Enabled Medical Devices Approved for Clinical Use},
-  journal = {In submission},
-  year = {2024},
-  note = {Under review}
+@article{windecker2025generalizability,
+  title     = {Generalizability of FDA-Approved AI-Enabled Medical Devices for Clinical Use},
+  author    = {Windecker, Daniel and Baj, Giovanni and Shiri, Isaac and Kazaj, Pooya Mohammadi and Kaesmacher, Johannes and Gr{\"a}ni, Christoph and Siontis, George C. M.},
+  journal   = {JAMA Network Open},
+  volume    = {8},
+  number    = {4},
+  pages     = {e258052},
+  year      = {2025},
+  doi       = {10.1001/jamanetworkopen.2025.8052},
+  url       = {https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2819868},
+  publisher = {American Medical Association}
 }
+
 
 ```
