@@ -32,6 +32,4 @@ Windecker D, Baj G, Shiri I, Mohammadi Kazaj P, Kaesmacher J, Gräni C, Siontis 
   url       = {https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2819868},
   publisher = {American Medical Association}
 }
-
-
 ```
