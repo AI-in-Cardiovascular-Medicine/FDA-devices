@@ -16,10 +16,14 @@ We identified and analyzed key characteristics of AI-enabled medical devices app
 
 
 ## Citation
-Please cite the following paper if you use this repository or data.
+Please cite the following paper if you use this repository or data:
 
-Windecker D, Baj G, Shiri I, Mohammadi Kazaj P, Kaesmacher J, Gräni C, Siontis GC. Generalizability of AI-Enabled Medical Devices Approved for Clinical Use. 2024 In submission.
+Windecker, D., Baj, G., Shiri, I., Kazaj, P. M., Kaesmacher, J., Gräni, C., & Siontis, G. C. M. (2025).
+Generalizability of FDA-approved AI-enabled medical devices for clinical use.
+JAMA Network Open, 8(4), e258052.
+https://doi.org/10.1001/jamanetworkopen.2025.8052
 
+### BibTex
 ```
 @article{windecker2025generalizability,
   title     = {Generalizability of FDA-Approved AI-Enabled Medical Devices for Clinical Use},
@@ -34,10 +38,3 @@ Windecker D, Baj G, Shiri I, Mohammadi Kazaj P, Kaesmacher J, Gräni C, Siontis 
   publisher = {American Medical Association}
 }
 ```
-```
-Windecker, D., Baj, G., Shiri, I., Kazaj, P.M., Kaesmacher, J., Gräni, C. and Siontis, G.C.M., 2025.
-Generalizability of FDA-approved AI-enabled medical devices for clinical use.
-JAMA Network Open, 8(4), p.e258052.
-https://doi.org/10.1001/jamanetworkopen.2025.8052
-```
-
